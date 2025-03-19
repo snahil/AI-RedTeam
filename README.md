@@ -63,11 +63,6 @@ python ai_redteam.py --target fb.com
 
 ---
 
-## 📸 Sample Screenshots
-(Add screenshots here)
-
----
-
 ## 📜 License
 This project is licensed under **MIT License**.
 
